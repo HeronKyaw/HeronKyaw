@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning Web Programming, CS50W, computer science at the University of the People. 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate on fullstack projects.
 
 - 📫 How to reach me **wunnakyaw11@hotmail.com**
 
