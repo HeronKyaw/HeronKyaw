@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 🌱 I’m currently learning **React.js with 30 days challenge**
+- 🌱 I’m currently learning **React.js**
 
 - 🤝 I’m looking for help with **Front-end Development**
 
