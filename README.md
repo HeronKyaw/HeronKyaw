@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Mobile Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HeronKyaw/](https://github.com/HeronKyaw/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/HeronKyaw/)
 
 - 💬 Ask me about **React (as I was a React Developer)**
 
