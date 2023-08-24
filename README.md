@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/HeronKyaw/)
 
-- 💬 Ask me about **React (as I was a React Developer)**
+- 💬 Ask me about **Flutter & Swift**
 
-- 📫 How to reach me **heronskyaw@gmail.com**
+- 📫 How to reach me **wunnakyaw.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
