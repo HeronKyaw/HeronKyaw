@@ -3,7 +3,7 @@
 ## About Me 👤
 
 <aside>
-👋🏻 Hey, I'm *Wunna Kyaw*, a software engineer at [GlobalWave Technology](https://www.globalwave.com.mm) in Yangon, [Myanmar 🇲🇲](https://en.wikipedia.org/wiki/Yangon). I specialize in mobile development 📱 with a focus on [Flutter](https://flutter.dev) (Dart), and I'm passionate about exploring new technologies. While I have limited experience in Android (Java) and iOS (Swift) development 🙁, I'm dedicated to expanding my skills in these areas 💯. I also enjoy building web applications with Laravel and Next.js. For design and ideation, I rely on Figma to create flow charts and visualize my ideas 💡. In addition, I have some experience with Docker, and I'm proficient in using Linux and MacOS as my daily driver. Besides, I have hands-on experience in languages like C#, Python, and SQL, along with expertise in frameworks like .NET and Django. I'm an adaptable and enthusiastic programmer, always eager to learn and integrate new technologies into my work.
+👋🏻 Hey, I'm *Wunna Kyaw*, a software engineer at GlobalWave Technology in Yangon, Myanmar 🇲🇲. I specialize in mobile development 📱 with a focus on Flutter (Dart), and I'm passionate about exploring new technologies. While I have limited experience in Android (Java) and iOS (Swift) development 🙁, I'm dedicated to expanding my skills in these areas 💯. I also enjoy building web applications with Laravel and Next.js. For design and ideation, I rely on Figma to create flow charts and visualize my ideas 💡. In addition, I have some experience with Docker, and I'm proficient in using Linux and MacOS as my daily driver. Besides, I have hands-on experience in languages like C#, Python, and SQL, along with expertise in frameworks like .NET and Django. I'm an adaptable and enthusiastic programmer, always eager to learn and integrate new technologies into my work.
 
 </aside>
 
@@ -38,11 +38,6 @@
     - DataGrip
     - X Code
     - Docker
-
-<aside>
-✅ Main
-
-</aside>
 
 ---
 
