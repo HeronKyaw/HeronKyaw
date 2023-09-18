@@ -19,10 +19,6 @@
     - JavaScript
     - PHP
     - Python
-- **Operating System**
-    - MacOS ✅
-    - Linux (Fedora) ✅
-    - Windows 10/11
 
 - **Frameworks**
     - Flutter ✅
@@ -30,6 +26,7 @@
     - Laravel
     - Next.js
     - React.js
+      
 - **Tools**
     - Android Studio ✅
     - VS Code
@@ -39,6 +36,10 @@
     - X Code
     - Docker
 
+- **Operating System**
+    - MacOS ✅
+    - Linux (Fedora) ✅
+    - Windows 10/11
 ---
 
 ## Contact Me 📞
