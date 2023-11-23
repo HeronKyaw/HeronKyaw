@@ -19,7 +19,6 @@
     - Swift
     - JavaScript
     - PHP
-    - Kotlin
 
 - **Frameworks**
     - Flutter ✅
