@@ -42,3 +42,6 @@
     - Linux
     - Windows 10/11
 ---
+
+## Most Used Language
+(Graph)[/assets/graph_bar.png]
