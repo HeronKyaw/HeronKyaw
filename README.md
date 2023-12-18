@@ -44,4 +44,4 @@
 ---
 
 ## Most Used Language
-(Graph)[/assets/graph_bar.png]
+![Most Used Language Graph](/assets/bar_graph.png)
