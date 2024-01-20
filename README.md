@@ -8,6 +8,8 @@
 ## Contact
 📨     :   [wunnakyaw.developer@gmail.com](mailto:wunnakyaw.developer@gmail.com)
 
+🌏     :   [Wunna Kyaw's Portfolio](wunnakyaw.vercel.com)
+
 ---
 
 ## Technologies 🖥️
@@ -42,6 +44,3 @@
     - Linux
     - Windows 10/11
 ---
-
-## Most Used Language
-![Most Used Language Graph](/assets/bar_graph.png)
