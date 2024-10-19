@@ -1,4 +1,5 @@
 # Wunna Kyaw | Software Engineer 👨🏻‍💻
+[![](https://visitcount.itsvg.in/api?id=HeronKyaw&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ## About Me 👤
 
@@ -12,11 +13,19 @@
 
 ---
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/definitely_h3r0n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wunnakyaw11) 
+
+---
+
 ## Technologies 🖥️
+
+✅ = current most used
 
 - **Languages**
     - Dart ✅
-    - C#
+    - C# ✅
+    - Kotlin
     - Java
     - Swift
     - JavaScript
@@ -24,7 +33,7 @@
 
 - **Frameworks**
     - Flutter ✅
-    - .Net
+    - .Net ✅
     - Laravel
     - Next.js
     - React.js
@@ -35,12 +44,15 @@
     - JetBrains Rider
     - PhpStorm
     - DataGrip
-    - X Code
+    - X Code ✅
     - Docker
     - Figma
+    - Github Actions ✅
+    - Gitlab CI/CD
+    - Bitbucket CI/CD
 
 - **Operating System**
     - MacOS ✅
-    - Linux
+    - Linux ✅
     - Windows 10/11
 ---
